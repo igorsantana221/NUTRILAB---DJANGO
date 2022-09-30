@@ -11,17 +11,20 @@ Site Feito para Portifolio, programa com funcionalidades de nutricionistas, feit
 	
 		python -m venv venv
 
-###Ativar
+### Ativar
 	# Linux
+	
 		source venv/bin/activate
+		
 	# Windows
+	
 		venv/Scripts/Activate
 
 # Caso algum comando retorne um erro de permissão execute o código e tente novamente:
 
 	Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
   
-3º # Instale as bibliotecas:
+### Instale as bibliotecas:
 
 	pip install django
 	
