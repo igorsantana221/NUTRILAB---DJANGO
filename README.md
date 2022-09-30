@@ -3,7 +3,7 @@
 Site Feito para Portifolio, programa com funcionalidades de nutricionistas, feito para atendimento a pacientes e organização. 
 
 1º # Criar
-	# Linux
+	 Linux
 	
 		python3 -m venv venv
 		
