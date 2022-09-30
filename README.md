@@ -4,8 +4,11 @@ Site Feito para Portifolio, programa com funcionalidades de nutricionistas, feit
 
 1º # Criar
 	# Linux
+	
 		python3 -m venv venv
+		
 	# Windows
+	
 		python -m venv venv
 
 2º #Ativar
