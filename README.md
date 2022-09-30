@@ -20,6 +20,7 @@ Site Feito para Portifolio, programa com funcionalidades de nutricionistas, feit
   
 3º # Instale as bibliotecas:
 
-pip install django
-pip install pillow  
+	pip install django
+	
+	pip install pillow  
   
