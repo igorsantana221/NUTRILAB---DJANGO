@@ -1,6 +1,6 @@
 
  
-Site Feito para Portifolio, programa com funcionalidades de nutricionistas, feito para atendimento a pacientes de nutrição.  
+Site Feito para Portifolio, programa com funcionalidades de nutricionistas, feito para atendimento a pacientes e gestão de trabalho. 
 
 
 ### Criar Ambiente virtual
