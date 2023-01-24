@@ -1,4 +1,4 @@
-# <div> NUTRILAB </div>  <img src="./templates/static/autenticacao/img/logo_nutri_lab.png" width="150px" height="150px" style=" position: absolute; bottom:0; right:0; left:0; top:0; margin:auto; ">
+
  
 Site Feito para Portifolio, programa com funcionalidades de nutricionistas, feito para atendimento a pacientes de nutrição.  
 
