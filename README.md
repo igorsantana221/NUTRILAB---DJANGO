@@ -30,4 +30,7 @@ Site Feito para Portifolio, programa com funcionalidades de nutricionistas, feit
 	pip install django
 	
 	pip install pillow  
-  
+
+### Iniciando Aplicação:
+
+	Python manage.py runserver
